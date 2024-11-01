@@ -1,0 +1,9 @@
+6     Cetirizine                 12000.00      Tablet      20      12/06/2025
+7     Simvastatin                40000.00      Tablet      5       30/03/2024
+8     Insulin                    75000.00      Tablet      8       25/12/2027
+9     Aspirin                    9000.00       Tablet      40      18/09/2028
+10    Loratadine                 18000.00      Tablet      15      05/07/2024
+11    Metformin                  30000.00      Tablet      12      08/10/2027
+12    Amlodipine                 32000.00      Tablet      25      15/04/2026
+13    Losartan                   42000.00      Tablet      30      20/09/2025
+14    Azithromycin               55000.00      Capsule     10      10/06/2024
